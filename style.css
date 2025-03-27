@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    background-color: rgb(129, 82, 156);
+    display: grid;
+    place-items: center;
+
+}
+section {
+    background-color: purple;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+p{
+    font-size: 100px;
+}
